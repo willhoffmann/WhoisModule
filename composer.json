@@ -14,7 +14,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^7.1",
+    "php": "^7.0",
     "phois/whois": "dev-master",
     "zendframework/zend-modulemanager": "^2.7",
     "zendframework/zend-mvc": "^3.1",
